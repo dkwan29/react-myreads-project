@@ -1,28 +1,28 @@
-MyReads - React App Project
+# MyReads - React App Project
 
-Overview:
+## Overview:
 
 This app was created as part of the Udacity React Nanodegree Program. The goal of the project is to demonstrate an understanding of how to build a React app using a starter template that consists of a basic HTML and CSS structure provided by Udacity. 
 
-To Get Started:
+## To Get Started:
 
-Run git clone git@github.com:dangerrobot/react-project-myreads.git to clone the repo
+Run ```git clone git@github.com:dkwan29/react-project-myreads.git``` to clone the repo
 
-Go into proper directory using cd ...directorynamehere
+Go into proper directory using ```cd ...directorynamehere```
 
-Install project dependencies npm install
+Install project dependencies ```npm install```
 
-Start development server npm start
+Start development server ```npm start```
 
-Application should run opening a browser window on localhost:3000
+Application should run opening a browser window on ```localhost:3000```
 
-App Functionality:
+## App Functionality:
 
 In this app, the main page displays a list of shelves (i.e. categories), each of which contains a number of books. The three shelves are:
 
-Currently Reading
-Want to Read
-Read
+- Currently Reading
+- Want to Read
+- Read
 
 Each book has a control that lets you select the shelf for that book. When you select a different shelf, the book moves there.
 
