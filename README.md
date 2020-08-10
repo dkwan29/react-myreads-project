@@ -4,6 +4,8 @@
 
 This app was created as part of the Udacity React Nanodegree Program. The goal of the project is to demonstrate an understanding of how to build a React app using a starter template that consists of a basic HTML and CSS structure provided by Udacity. 
 
+<img src="https://github.com/dkwan29/react-myreads-project/blob/master/myreads_img.png" width="550">
+
 ## To Get Started:
 
 Run ```git clone git@github.com:dkwan29/react-project-myreads.git``` to clone the repo
